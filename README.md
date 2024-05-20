@@ -1,4 +1,4 @@
-![MsterHead](https://media.licdn.com/dms/image/D5616AQG2eCgY4xm22A/profile-displaybackgroundimage-shrink_350_1400/0/1715624658766?e=1721865600&v=beta&t=v6dqYM7NJ1IOMfK_r9KwKsVcLSICeyQr6di3ALEDE4k)
+[![MsterHead](https://media.licdn.com/dms/image/D5616AQG2eCgY4xm22A/profile-displaybackgroundimage-shrink_350_1400/0/1715624658766?e=1721865600&v=beta&t=v6dqYM7NJ1IOMfK_r9KwKsVcLSICeyQr6di3ALEDE4k)
 <h1 align="center">Hi 👋, I'm MusaSEKEROGLU</h1>
 <h3 align="center">.Net Developer From Türkiye</h3>
 
@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/gsms87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsms87" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/musa-sekeroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musa-sekeroglu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tasarimfirtinasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tasarimfirtinasi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxmok28uej4u7ssqym2zrtq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxmok28uej4u7ssqym2zrtq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

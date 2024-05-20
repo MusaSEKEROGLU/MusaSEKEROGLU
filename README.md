@@ -1,4 +1,4 @@
-[![MsterHead](https://media.licdn.com/dms/image/D5616AQG2eCgY4xm22A/profile-displaybackgroundimage-shrink_350_1400/0/1715624658766?e=1721865600&v=beta&t=v6dqYM7NJ1IOMfK_r9KwKsVcLSICeyQr6di3ALEDE4k)
+![MsterHead](https://media.licdn.com/dms/image/D5616AQG2eCgY4xm22A/profile-displaybackgroundimage-shrink_350_1400/0/1715624658766?e=1721865600&v=beta&t=v6dqYM7NJ1IOMfK_r9KwKsVcLSICeyQr6di3ALEDE4k)
 <h1 align="center">Hi 👋, I'm MusaSEKEROGLU</h1>
 <h3 align="center">.Net Developer From Türkiye</h3>
 

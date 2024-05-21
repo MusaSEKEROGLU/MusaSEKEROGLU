@@ -1,6 +1,6 @@
 ![MsterHead](https://media.licdn.com/dms/image/D5616AQG2eCgY4xm22A/profile-displaybackgroundimage-shrink_350_1400/0/1715624658766?e=1721865600&v=beta&t=v6dqYM7NJ1IOMfK_r9KwKsVcLSICeyQr6di3ALEDE4k)
-<h1 align="center">Merhaba 👋, Ben MusaSEKEROGLU</h1>
-<h3 align="center">.Net Developer From Türkiye</h3>
+<h1 align="center">Merhaba 👋, Ben Musa ŞEKERĞGLU</h1>
+<h3 align="center">.Net Developer  Ankara/TÜRKİYE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musasekeroglu&label=Profile%20views&color=0e75b6&style=flat" alt="musasekeroglu" /> </p>
 

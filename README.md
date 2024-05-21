@@ -10,13 +10,9 @@
 
 - 🔭 Şu anda üzerinde çalışıyorum **BookStoreApplication**
 
-- 🌱 Şu anda öğreniyorum  **BTKAkademi,UDEMY**
-
 - 👨‍💻 Tüm projelerim şu adreste mevcuttur:  [https://github.com/MusaSEKEROGLU/MusaSEKEROGLU/](https://github.com/MusaSEKEROGLU/MusaSEKEROGLU/)
 
-- 📝 Düzenli olarak makaleler yazıyorum  [https://www.musatrueblogs.com.tr/](https://www.musatrueblogs.com.tr/)
-
-- 💬 Bana sor **ASP.NET Core**
+- 📝 Blog'um  [https://www.musatrueblogs.com.tr/](https://www.musatrueblogs.com.tr/)
 
 - 📫 Bana nasıl ulaşılır **drnmaskr2005@gmail.com**
 
